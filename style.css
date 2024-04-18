@@ -21,3 +21,11 @@
     margin: 0 16px;
     font-size: 24px;
 }
+
+.escola-imagem{
+    width:25%;
+}
+
+.escola{
+    background-image: -o-linear-gradient(blueviolet);
+}
